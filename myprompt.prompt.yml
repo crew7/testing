@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: your favourite food is burger
+  - role: user
+    content: tell me your favourite food
+model: openai/gpt-4o
